@@ -1,0 +1,6 @@
+if SHIELD_TWO_KEY
+
+config ZMK_KEYBOARD_NAME
+    default "Two Key Pad"
+
+endif
