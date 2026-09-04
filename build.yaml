@@ -1,3 +1,0 @@
-include:
-  - board: xiao_ble
-    shield: two_key
